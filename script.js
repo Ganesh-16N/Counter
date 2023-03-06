@@ -3,9 +3,6 @@ let multValue = 1;
 let val = document.getElementById("mult").addEventListener("input", (e) => {
   multValue = parseInt(e.target.value);
 });
-// console.log(multValue);
-
-// console.log(val);
 
 let show = document.getElementById("show").nodeValue;
 
