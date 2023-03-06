@@ -1,0 +1,27 @@
+.App {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  color: rgb(115, 0, 255);
+}
+div {
+  text-align: center;
+}
+div * {
+  margin-top: 1rem;
+}
+button {
+  background-color: rgb(115, 0, 255);
+  color: white;
+  border-radius: 7px;
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: none;
+}
+input {
+  width: 3rem;
+  margin-left: 0.5rem;
+}
